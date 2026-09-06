@@ -1,6 +1,6 @@
 # SystemApi
 
-All URIs are relative to *https://platform.void-run.com/api*
+All URIs are relative to *https://api.void-run.com/api*
 
 | Method | HTTP request | Description |
 |------------- | ------------- | -------------|
