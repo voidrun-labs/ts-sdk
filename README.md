@@ -61,7 +61,7 @@ yarn add @voidrun/sdk
 
 ## Configuration
 
-`VoidRun` requires an **API key**. On the hosted platform the **base URL** defaults to **`BASE_PATH`** (see `src/api-client/runtime.ts`: `https://platform.void-run.com/api` without a trailing slash). Set **`VR_API_URL`** or pass **`baseUrl`** only when you target a **self-hosted** API.
+`VoidRun` requires an **API key**. On the hosted platform the **base URL** defaults to **`BASE_PATH`** (see `src/api-client/runtime.ts`: `https://api.void-run.com/api` without a trailing slash). Set **`VR_API_URL`** or pass **`baseUrl`** only when you target a **self-hosted** API.
 
 ```typescript
 import { VoidRun } from "@voidrun/sdk";

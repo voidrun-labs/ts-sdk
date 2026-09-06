@@ -35,7 +35,7 @@ const example = {
   "image": code:1.0.42,
   "cpu": 2,
   "mem": 2048,
-  "diskMB": 5120,
+  "diskMB": 10240,
   "status": running,
   "createdAt": null,
   "createdBy": 65ae1234567890abcdef1234,
